@@ -5,4 +5,4 @@ Dois jogadores controlam as raquetes usando as teclas **W/S** (esquerda) e **↑
 
 ## Como rodar
 
-1. Instale com pip install pygame
+1. Instale o Pygame com pip install pygame
